@@ -1,0 +1,26 @@
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files
+*.zip
+*.rar
+
+*.idea
+*.imltarget
+*.iml
+
+# Eclipse
+*.classpath
+*.settings/
+*.project
+
+# Mac
+*.DS_Store
+
+# Maven
+log/
+target/
+*.springBeans
